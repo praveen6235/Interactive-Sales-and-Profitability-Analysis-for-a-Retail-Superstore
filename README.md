@@ -1,8 +1,3 @@
-Of course\! A good `README.md` file is essential for showcasing your project on GitHub. It's the first thing people see and explains the value of your work.
-
-Here is a comprehensive and professional template for your `README.md` file. You can copy and paste this directly into a `README.md` file in your GitHub repository.
-
------
 
 # Superstore Sales Analysis Dashboard
 
