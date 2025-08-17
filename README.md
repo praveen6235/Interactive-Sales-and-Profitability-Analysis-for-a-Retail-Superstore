@@ -39,9 +39,9 @@ This dashboard provides a detailed analysis of:
 
 The analysis is based on the following three CSV files, which are included in this repository:
 
-1.  **`superstore(task1).xls - Orders.csv`**: Contains detailed information on all customer orders, including sales, profit, and product details.
-2.  **`superstore(task1).xls - Returns.csv`**: Contains data on all returned orders.
-3.  **`superstore(task1).xls - People.csv`**: Contains information on the regional sales managers.
+1.  **`superstore.xls - Orders.csv`**: Contains detailed information on all customer orders, including sales, profit, and product details.
+2.  **`superstore.xls - Returns.csv`**: Contains data on all returned orders.
+3.  **`superstore.xls - People.csv`**: Contains information on the regional sales managers.
 
 ## 🛠️ Tools Used
 
@@ -59,7 +59,7 @@ To view and interact with the dashboard, please follow these steps:
     git clone https://github.com/praveen6235/Interactive-Sales-and-Profitability-Analysis-for-a-Retail-Superstore
     ```
 2.  **Install Power BI Desktop:** Make sure you have the latest version of [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) installed. It is available for free from Microsoft.
-3.  **Open the Project File:** Navigate to the project folder and open the `dashboard(task1).pbix` file.
+3.  **Open the Project File:** Navigate to the project folder and open the `Dashboard.pbix` file.
 4.  **Interact with the Dashboard:** Once the file is open, you can explore the different pages of the report and use the slicers and filters to analyze the data.
 
 ## 💡 Project Highlights & Insights
